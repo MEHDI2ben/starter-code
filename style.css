@@ -63,8 +63,8 @@ h1 span {
   padding-bottom: 365px;
   height: 642px;
 
-  background-image: url(/assets/images/bg-pattern-1.svg),
-    url(/assets/images/bg-pattern-2.svg), url(assets/images/Rectangle.svg);
+  background-image: url(assets/images/bg-pattern-1.svg),
+    url(assets/images/bg-pattern-2.svg), url(assets/images/Rectangle.svg);
 
   background-repeat: no-repeat;
   background-position: -7% 45%, 103% 60%, 100% 110%;
